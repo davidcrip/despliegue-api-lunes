@@ -1,6 +1,5 @@
 
 {
-  "comentario": "esta es la configuracion del servidor para vercel",
   "version": 2,
   "builds": [{
     "src": "./index.js",

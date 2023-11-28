@@ -7,8 +7,8 @@ git add . ==> se le indica que se va a añadir un commit
 git commit -m "se crean rutas y controles" ==> se especifica el cambio que se hizo para ir guardando la información y tener un      
                control de proyecto
 
-git config credential.helper""  ==> se utiliza para limpiar credenciales en un computador donde se utilice muchas cuentas de github
-
+git config credential.helper ""  ==> se utiliza para limpiar credenciales en un computador donde se utilice muchas cuentas de github
+git push -u origin main ==> para poder subir el repositorio
 
 
 Status http que se pueden dar en la pagina
